@@ -1,0 +1,19 @@
+p.first{
+    text-align: left;
+}
+p.first:first-line{
+    font-weight: bold;
+}
+p.a{
+    text-indent: 30%;
+}
+p.a:first-letter{
+    font-size: 30px;
+}
+p.b{
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: cornflowerblue;
+    text-shadow: 2px 4px 4px yellow;
+}
